@@ -77,11 +77,14 @@
    "rule": "Aynı anda tek kampanya."
   },
   "psy": {
-   "st": "ok",
+   "st": "wait",
    "today": [
-    "Ölçüm şartnamesi hazır."
+    "Günlük ödül takvimi (7 gün)",
+    "İlk turdan sonra hediye roket",
+    "İlk haritada ilk 3 yükseltme ucuz",
+    "Ertesi gün 'ödülün hazır' bildirimi"
    ],
-   "next": "Yayından sonra ilk verilerle eşikler.",
+   "next": "Emre Unity'de bakacak; 25 Kas D1 ölçümü",
    "rule": "Veri olmadan rakam uydurmaz."
   },
   "comp": {
@@ -115,8 +118,8 @@
   "Yayın öncesi boyut ölçümü (Build Size).",
   "Panelde eksik anahtarlar: GitHub, bildirim, iPhone."
  ],
- "updated": "2026-11-18T02:50:18+03:00",
- "by": "Game Director",
+ "updated": "2026-11-18T02:58:22+03:00",
+ "by": "Psikoloji",
  "morning": {
   "date": "2026-11-18",
   "time": "02:50",
