@@ -115,6 +115,17 @@
   "Yayın öncesi boyut ölçümü (Build Size).",
   "Panelde eksik anahtarlar: GitHub, bildirim, iPhone."
  ],
- "updated": "2026-11-18T02:39:26+03:00",
- "by": "Game Director"
+ "updated": "2026-11-18T02:50:18+03:00",
+ "by": "Game Director",
+ "morning": {
+  "date": "2026-11-18",
+  "time": "02:50",
+  "summary": "Sabah kontrolü kuruldu. İlk gerçek rapor bugün 08:00'de buraya gelir.",
+  "items": [
+   {
+    "lvl": "green",
+    "t": "Sorun bulunursa telefonuna da bildirim gelecek."
+   }
+  ]
+ }
 }
