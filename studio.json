@@ -1,0 +1,120 @@
+{
+ "depts": {
+  "dir": {
+   "st": "live",
+   "today": [
+    "17-18 Kas: 13 küçük iş bitti (v2.86 - v2.97), hepsi kodda, hiçbiri yayında değil.",
+    "Stüdyo sayfası panele taşındı, artık kendiliğinden güncellenir."
+   ],
+   "next": "Biriken işler için yayın kararı sende.",
+   "rule": "QA ve Build Size onayı olmadan yayına izin vermez."
+  },
+  "map": {
+   "st": "wait",
+   "today": [
+    "Harita 5 (cangıl) tapınak yolu: 18 m pist, dev ağaç tüneli, nehir, filler, içine girilen tapınak.",
+    "Filler artık pisti kesmiyor, sağ kenarda oyuncuyla paralel yürüyor.",
+    "Cangılda ilk rampa nehir köprüsünden sonraya alındı.",
+    "Çöl ve cangılda buz halkalar kalktı, büyük rampalar haritanın kendi modeli."
+   ],
+   "next": "Unity'de oynayıp görmek. Harita 5 hâlâ kilitli.",
+   "rule": "Haritayı istenmeden değiştirmez."
+  },
+  "sled": {
+   "st": "wait",
+   "today": [
+    "Altın toplama alanı genişledi (0,9 m → 1,4 m). Oyuncu: 'altın almak zor'.",
+    "Çok yavaşken rokete basınca daha güçlü itiş.",
+    "Roket tek dokunuşla tüm yakıtı yakar."
+   ],
+   "next": "Unity'de deneme.",
+   "rule": "Bir telefonda ölçülen değer diğerine geçerli sayılmaz."
+  },
+  "mphys": {
+   "st": "wait",
+   "today": [
+    "Okyanus haritasında saldıran ayı artık kaçılabilir.",
+    "Çölde deve kervanı oyuncudan önce geçer."
+   ],
+   "next": "Unity'de deneme.",
+   "rule": "Haritayı istenmeden değiştirmez."
+  },
+  "ui": {
+   "st": "wait",
+   "today": [
+    "Cangıl haritasında cangıl arayüzü (yosunlu tapınak taşı, 39 görsel).",
+    "Ses kapalıyken müzik çalmaya devam ediyor (iki ayar ayrı).",
+    "Harita bitince 'yükseltmeler sıfırlandı, kristal kaldı' notu (7 dil)."
+   ],
+   "next": "Telefonda bakmak.",
+   "rule": "Yeni görsel önce sana gösterilir, onayınla girer."
+  },
+  "sales": {
+   "st": "ok",
+   "today": [
+    "Ucuz ilk paket (19,99 TL): hiç ödeme yapmamış oyuncuya 8. turdan sonra bir kez.",
+    "Pembe karakter artık ücretsiz."
+   ],
+   "next": "iPhone reklamını yeniden kontrol.",
+   "rule": "Kendi reklamına tıklamak yasak."
+  },
+  "ana": {
+   "st": "ok",
+   "today": [
+    "'Enerji yok, bekleme yok' mağaza metni 14 dilde hazır.",
+    "Ölçüm olayları için test komutu eklendi."
+   ],
+   "next": "Yayından 1-2 hafta sonra ilk haftalık rapor.",
+   "rule": "Rakip adı mağaza metnine yazılmaz."
+  },
+  "live": {
+   "st": "ok",
+   "today": [
+    "Kış Festivali: hediye daha sık (42 m), kazanç x2.",
+    "Yükseltme alınca festival kızağı/sapanı kendiliğinden çıkar."
+   ],
+   "next": "Aralık takvimi.",
+   "rule": "Aynı anda tek kampanya."
+  },
+  "psy": {
+   "st": "ok",
+   "today": [
+    "Ölçüm şartnamesi hazır."
+   ],
+   "next": "Yayından sonra ilk verilerle eşikler.",
+   "rule": "Veri olmadan rakam uydurmaz."
+  },
+  "comp": {
+   "st": "ok",
+   "today": [
+    "Sled Surfers analizi bitti, 5 öneri işe verildi."
+   ],
+   "next": "Yeni öneri için senin seçimin.",
+   "rule": "Rakip adı sadece iç raporda."
+  },
+  "size": {
+   "st": "idle",
+   "today": [
+    "Bu hafta build yok."
+   ],
+   "next": "Yayın öncesi boyut ölçümü.",
+   "rule": "Optimize edilmeden yayın yok."
+  },
+  "qa": {
+   "st": "wait",
+   "today": [
+    "v2.86 - v2.97 hiçbiri oynanarak denenmedi."
+   ],
+   "next": "Unity boşalınca tüm yeni işleri tek turda denemek.",
+   "rule": "Kritik hata varsa onay vermez."
+  }
+ },
+ "todo": [
+  "v2.86 - v2.97 işlerini Unity'de oynayarak denemek.",
+  "Harita 5 (cangıl) için telefon ölçümü, sonra kilidi açma kararı.",
+  "Yayın öncesi boyut ölçümü (Build Size).",
+  "Panelde eksik anahtarlar: GitHub, bildirim, iPhone."
+ ],
+ "updated": "2026-11-18T02:39:26+03:00",
+ "by": "Game Director"
+}
