@@ -68,12 +68,12 @@
    "rule": "Rakip adı mağaza metnine yazılmaz."
   },
   "live": {
-   "st": "ok",
+   "st": "wait",
    "today": [
-    "Kış Festivali: hediye daha sık (42 m), kazanç x2.",
-    "Yükseltme alınca festival kızağı/sapanı kendiliğinden çıkar."
+    "3.01 App Store incelemede",
+    "3.01 Google Play incelemede"
    ],
-   "next": "Aralık takvimi.",
+   "next": "Onay gelince version.json latest 3.01",
    "rule": "Aynı anda tek kampanya."
   },
   "psy": {
@@ -96,11 +96,13 @@
    "rule": "Rakip adı sadece iç raporda."
   },
   "size": {
-   "st": "idle",
+   "st": "ok",
    "today": [
-    "Bu hafta build yok."
+    "iPhone indirme 230 -> 190 MB",
+    "Android 300 -> 153 MB",
+    "Kural: 200 MB alti olmadan yayin yok"
    ],
-   "next": "Yayın öncesi boyut ölçümü.",
+   "next": "Telefonda paket inişini dene",
    "rule": "Optimize edilmeden yayın yok."
   },
   "qa": {
@@ -118,8 +120,8 @@
   "Yayın öncesi boyut ölçümü (Build Size).",
   "Panelde eksik anahtarlar: GitHub, bildirim, iPhone."
  ],
- "updated": "2026-11-18T02:58:22+03:00",
- "by": "Psikoloji",
+ "updated": "2026-11-18T08:52:52+03:00",
+ "by": "Yayin 3.01",
  "morning": {
   "date": "2026-11-18",
   "time": "02:50",
