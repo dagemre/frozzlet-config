@@ -70,10 +70,9 @@
   "live": {
    "st": "wait",
    "today": [
-    "3.01 App Store incelemede",
-    "3.01 Google Play incelemede"
+    "Kis Festivali: odul alininca KAZANDIN ekrani eklendi (v3.02)"
    ],
-   "next": "Onay gelince version.json latest 3.01",
+   "next": "Telefonda dene, sonraki yayinla gider",
    "rule": "Aynı anda tek kampanya."
   },
   "psy": {
@@ -120,8 +119,8 @@
   "Yayın öncesi boyut ölçümü (Build Size).",
   "Panelde eksik anahtarlar: GitHub, bildirim, iPhone."
  ],
- "updated": "2026-11-18T08:52:52+03:00",
- "by": "Yayin 3.01",
+ "updated": "2026-11-18T17:45:42+03:00",
+ "by": "festival",
  "morning": {
   "date": "2026-11-18",
   "time": "02:50",
