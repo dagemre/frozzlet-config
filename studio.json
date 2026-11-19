@@ -3,10 +3,10 @@
   "dir": {
    "st": "live",
    "today": [
-    "17-18 Kas: 13 küçük iş bitti (v2.86 - v2.97), hepsi kodda, hiçbiri yayında değil.",
-    "Stüdyo sayfası panele taşındı, artık kendiliğinden güncellenir."
+    "Sürüm 3.09: Android yayında, iPhone incelemede.",
+    "Harita 6 (sörf) bu sürüme girmedi, çalışma sürüyor."
    ],
-   "next": "Biriken işler için yayın kararı sende.",
+   "next": "Play ödeme doğrulamasını yaptır (17 Aralık son gün).",
    "rule": "QA ve Build Size onayı olmadan yayına izin vermez."
   },
   "map": {
@@ -95,21 +95,19 @@
    "rule": "Rakip adı sadece iç raporda."
   },
   "size": {
-   "st": "ok",
+   "st": "wait",
    "today": [
-    "iPhone indirme 230 -> 190 MB",
-    "Android 300 -> 153 MB",
-    "Kural: 200 MB alti olmadan yayin yok"
+    "3.09: iPhone 197 MB (sınırda), Android AAB 160 MB."
    ],
-   "next": "Telefonda paket inişini dene",
+   "next": "Sonraki sürümde iPhone boyutunu küçült.",
    "rule": "Optimize edilmeden yayın yok."
   },
   "qa": {
    "st": "wait",
    "today": [
-    "v2.86 - v2.97 hiçbiri oynanarak denenmedi."
+    "3.09 içindeki işler (v3.02-v3.08) yayına çıktı; oyuncu tepkisi izleniyor."
    ],
-   "next": "Unity boşalınca tüm yeni işleri tek turda denemek.",
+   "next": "Çökme raporlarını 1-2 gün izle.",
    "rule": "Kritik hata varsa onay vermez."
   }
  },
@@ -119,16 +117,40 @@
   "Yayın öncesi boyut ölçümü (Build Size).",
   "Panelde eksik anahtarlar: GitHub, bildirim, iPhone."
  ],
- "updated": "2026-11-18T17:45:42+03:00",
- "by": "festival",
+ "updated": "2026-11-19T09:15:00+03:00",
+ "by": "Sabah kontrolü",
  "morning": {
-  "date": "2026-11-18",
-  "time": "02:50",
-  "summary": "Sabah kontrolü kuruldu. İlk gerçek rapor bugün 08:00'de buraya gelir.",
+  "date": "2026-11-19",
+  "time": "09:15",
+  "summary": "Android 3.09 yayında, iPhone 3.09 incelemede. Tek acil iş: Google Play ödeme yöntemi doğrulaması.",
   "items": [
    {
+    "lvl": "red",
+    "t": "Google Play: 'Profil ve tüm uygulamalar 17 Aralık'ta kaldırılacak' uyarısı duruyor. Sebep: satıcı ödeme yöntemi doğrulanamadı. Play Console ana sayfa → Ayrıntıları göster."
+   },
+   {
     "lvl": "green",
-    "t": "Sorun bulunursa telefonuna da bildirim gelecek."
+    "t": "Android 3.09 bugün yayınlandı (Play'de 'son yayın 19 Kas'). Güncelleme kartı 3.09'a ayarlı."
+   },
+   {
+    "lvl": "yellow",
+    "t": "iPhone 3.09 Apple incelemesinde. Onay gelince version.json latest ve latest_ios = 3.09 yapılmalı."
+   },
+   {
+    "lvl": "yellow",
+    "t": "iPhone indirme 197 MB, 200 MB sınırına çok yakın. Sonraki sürümde küçültülmeli."
+   },
+   {
+    "lvl": "green",
+    "t": "Son 24 saatte yeni mağaza yorumu yok. Play puanı 4,8."
+   },
+   {
+    "lvl": "green",
+    "t": "Reklam: son 7 günde gösterim önceki haftanın ~4 katı, doluluk %92."
+   },
+   {
+    "lvl": "green",
+    "t": "Oyuncu: yeni oyuncu günde ~17, 17 Kas ile aynı (16 Kas zirvesinin altında)."
    }
   ]
  }
