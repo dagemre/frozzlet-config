@@ -105,9 +105,9 @@
   "qa": {
    "st": "wait",
    "today": [
-    "3.09 içindeki işler (v3.02-v3.08) yayına çıktı; oyuncu tepkisi izleniyor."
+    "3.44 iOS + Play incelemede (harita 6 sorf acik)"
    ],
-   "next": "Çökme raporlarını 1-2 gün izle.",
+   "next": "Onay sonrasi version.json 3.44; harita 6 telefonda bastan sona oyna",
    "rule": "Kritik hata varsa onay vermez."
   }
  },
@@ -117,8 +117,8 @@
   "Yayın öncesi boyut ölçümü (Build Size).",
   "Panelde eksik anahtarlar: GitHub, bildirim, iPhone."
  ],
- "updated": "2026-11-19T09:15:00+03:00",
- "by": "Sabah kontrolü",
+ "updated": "2026-11-26T01:12:20+03:00",
+ "by": "yayin",
  "morning": {
   "date": "2026-11-19",
   "time": "09:15",
